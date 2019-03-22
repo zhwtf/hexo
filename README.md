@@ -5,6 +5,8 @@
 
 A fast, simple & powerful blog framework, powered by [Node.js](http://nodejs.org).
 
+HEXO does not need to be deployed to our server. The information stored on our server is actually based on the article written in HEXO through markdown, then HEXO helps us generate a static html page. Finally, it uploads the generated html to Our server is simple: HEXO is a static page generation, uploading tool.
+
 ## Features
 
 - Blazing fast generating
